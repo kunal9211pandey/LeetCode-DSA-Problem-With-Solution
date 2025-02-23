@@ -25,6 +25,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
