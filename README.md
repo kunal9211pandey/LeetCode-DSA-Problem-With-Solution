@@ -47,9 +47,14 @@ LeetCode DSA Challenges
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
