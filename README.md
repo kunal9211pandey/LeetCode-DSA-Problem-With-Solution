@@ -29,6 +29,7 @@ LeetCode DSA Challenges
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
