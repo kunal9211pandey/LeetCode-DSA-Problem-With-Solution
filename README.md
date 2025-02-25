@@ -67,5 +67,6 @@ LeetCode DSA Challenges
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
