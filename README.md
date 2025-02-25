@@ -64,4 +64,8 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
