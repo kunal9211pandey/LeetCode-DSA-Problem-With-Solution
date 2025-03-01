@@ -14,12 +14,14 @@ LeetCode DSA Challenges
 | [0485-max-consecutive-ones](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,8 @@ LeetCode DSA Challenges
 | [0584-find-customer-referee](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
