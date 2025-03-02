@@ -15,6 +15,7 @@ LeetCode DSA Challenges
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ LeetCode DSA Challenges
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
