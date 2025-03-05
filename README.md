@@ -33,6 +33,7 @@ LeetCode DSA Challenges
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
 | ------- |
