@@ -28,6 +28,7 @@ LeetCode DSA Challenges
 | [0027-remove-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -106,4 +107,5 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
