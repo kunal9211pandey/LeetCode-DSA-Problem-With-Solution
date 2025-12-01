@@ -102,4 +102,8 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2610-closest-prime-numbers-in-range) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
