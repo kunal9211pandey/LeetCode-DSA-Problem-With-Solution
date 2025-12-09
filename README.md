@@ -35,6 +35,7 @@ LeetCode DSA Challenges
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -46,6 +47,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -70,6 +72,7 @@ LeetCode DSA Challenges
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
