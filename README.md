@@ -10,6 +10,7 @@ LeetCode DSA Challenges
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -115,6 +117,7 @@ LeetCode DSA Challenges
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
