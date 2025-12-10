@@ -11,6 +11,7 @@ LeetCode DSA Challenges
 | [0027-remove-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0001-two-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -67,6 +69,7 @@ LeetCode DSA Challenges
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -128,5 +131,10 @@ LeetCode DSA Challenges
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
