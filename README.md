@@ -96,6 +96,7 @@ LeetCode DSA Challenges
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -155,6 +156,7 @@ LeetCode DSA Challenges
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -164,10 +166,12 @@ LeetCode DSA Challenges
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
