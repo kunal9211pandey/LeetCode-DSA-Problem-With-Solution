@@ -25,6 +25,7 @@ LeetCode DSA Challenges
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ LeetCode DSA Challenges
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
 |  |
 | ------- |
