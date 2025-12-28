@@ -7,7 +7,7 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root:
-            return False
+            return True
         def isMirror(t1:TreeNode , t2:TreeNode) ->bool:
             if not t1 and not t2:
                 return True
