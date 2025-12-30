@@ -3,18 +3,19 @@ class Solution:
         if not nums:
             return 0
 
-        num_set = set(nums)
-        longest_strick = 0
+        numbers_set = set(nums)
+        longest_streak = 0
 
-        for num in num_set:
-            if num - 1 not in num_set: # frist element
-                current_num = num
-                current_strick = 1
+        for number in numbers_set:
+            # start of a sequence
+            if number - 1 not in numbers_set:
+                current_number = number
+                current_streak = 1
 
-                while current_num + 1 in num_set:
-                    current_num += 1
-                    current_strick += 1
-                longest_strick = max(current_strick , longest_strick) 
-        return longest_strick
+                while current_number + 1 in numbers_set:
+                    current_number += 1
+                    current_streak += 1
 
+                longest_streak = max(longest_streak, current_streak)
 
+        return longest_streak
