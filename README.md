@@ -9,6 +9,7 @@ LeetCode DSA Challenges
 | [0001-two-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
@@ -36,6 +37,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0876-middle-of-the-linked-list) |
