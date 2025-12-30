@@ -12,6 +12,7 @@ LeetCode DSA Challenges
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0001-two-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
@@ -126,6 +128,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
