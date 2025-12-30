@@ -15,6 +15,7 @@ LeetCode DSA Challenges
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ LeetCode DSA Challenges
 | [0001-two-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
@@ -218,4 +220,8 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
