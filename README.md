@@ -12,6 +12,7 @@ LeetCode DSA Challenges
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
@@ -121,6 +122,7 @@ LeetCode DSA Challenges
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -128,6 +130,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
