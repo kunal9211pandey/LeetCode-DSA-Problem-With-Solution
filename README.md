@@ -15,6 +15,7 @@ LeetCode DSA Challenges
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -51,6 +52,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0013-roman-to-integer](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
