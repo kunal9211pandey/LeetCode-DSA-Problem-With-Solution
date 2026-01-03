@@ -22,6 +22,7 @@ LeetCode DSA Challenges
 | [0136-single-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ LeetCode DSA Challenges
 | [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +97,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
