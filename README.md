@@ -184,6 +184,7 @@ LeetCode DSA Challenges
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Tree
 |  |
 | ------- |
