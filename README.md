@@ -30,6 +30,7 @@ LeetCode DSA Challenges
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -53,6 +54,7 @@ LeetCode DSA Challenges
 | [0344-reverse-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -110,6 +112,7 @@ LeetCode DSA Challenges
 | [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
