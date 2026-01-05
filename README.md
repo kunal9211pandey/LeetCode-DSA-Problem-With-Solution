@@ -37,6 +37,7 @@ LeetCode DSA Challenges
 | [1390-four-divisors](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -143,6 +144,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0455-assign-cookies](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
@@ -176,6 +178,7 @@ LeetCode DSA Challenges
 | [0048-rotate-image](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
+| [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
