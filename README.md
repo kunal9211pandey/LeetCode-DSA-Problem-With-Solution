@@ -36,6 +36,7 @@ LeetCode DSA Challenges
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -216,6 +217,7 @@ LeetCode DSA Challenges
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
 |  |
 | ------- |
