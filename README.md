@@ -95,6 +95,7 @@ LeetCode DSA Challenges
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -232,6 +233,7 @@ LeetCode DSA Challenges
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -241,6 +243,7 @@ LeetCode DSA Challenges
 | [0102-binary-tree-level-order-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -256,6 +259,7 @@ LeetCode DSA Challenges
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -269,6 +273,7 @@ LeetCode DSA Challenges
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 |  |
