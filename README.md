@@ -137,6 +137,7 @@ LeetCode DSA Challenges
 | [0344-reverse-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1768-merge-strings-alternately) |
@@ -217,6 +218,7 @@ LeetCode DSA Challenges
 | [0053-maximum-subarray](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
