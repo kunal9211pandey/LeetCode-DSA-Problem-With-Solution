@@ -19,6 +19,7 @@ LeetCode DSA Challenges
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -113,6 +114,7 @@ LeetCode DSA Challenges
 | [0033-search-in-rotated-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
