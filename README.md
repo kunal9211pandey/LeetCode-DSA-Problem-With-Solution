@@ -102,6 +102,7 @@ LeetCode DSA Challenges
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@ LeetCode DSA Challenges
 | [0088-merge-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0455-assign-cookies) |
@@ -153,6 +155,7 @@ LeetCode DSA Challenges
 | [0125-valid-palindrome](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
