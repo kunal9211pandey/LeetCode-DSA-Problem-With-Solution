@@ -157,6 +157,7 @@ LeetCode DSA Challenges
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1768-merge-strings-alternately) |
@@ -307,4 +308,8 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
