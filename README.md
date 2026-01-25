@@ -44,6 +44,7 @@ LeetCode DSA Challenges
 | [1390-four-divisors](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -169,6 +170,7 @@ LeetCode DSA Challenges
 | [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1768-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
