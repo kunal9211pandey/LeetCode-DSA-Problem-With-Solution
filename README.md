@@ -69,6 +69,7 @@ LeetCode DSA Challenges
 | [0455-assign-cookies](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +166,7 @@ LeetCode DSA Challenges
 | [0680-valid-palindrome-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1768-merge-strings-alternately) |
@@ -184,6 +186,7 @@ LeetCode DSA Challenges
 | [0094-binary-tree-inorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -200,6 +203,7 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
