@@ -50,6 +50,7 @@ LeetCode DSA Challenges
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -78,6 +79,7 @@ LeetCode DSA Challenges
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -208,6 +210,7 @@ LeetCode DSA Challenges
 | [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
