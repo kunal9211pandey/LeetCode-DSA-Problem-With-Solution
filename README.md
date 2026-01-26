@@ -47,6 +47,7 @@ LeetCode DSA Challenges
 | [1458-max-dot-product-of-two-subsequences](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2109-adding-spaces-to-a-string) |
@@ -217,6 +218,7 @@ LeetCode DSA Challenges
 | ------- |
 | [0054-spiral-matrix](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
