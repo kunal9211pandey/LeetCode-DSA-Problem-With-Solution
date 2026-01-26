@@ -183,6 +183,7 @@ LeetCode DSA Challenges
 | [2032-largest-odd-number-in-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2109-adding-spaces-to-a-string) |
+| [3110-score-of-a-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
