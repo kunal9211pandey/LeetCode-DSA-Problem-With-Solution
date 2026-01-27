@@ -39,6 +39,7 @@ LeetCode DSA Challenges
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0905-sort-array-by-parity) |
+| [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -121,6 +122,7 @@ LeetCode DSA Challenges
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -179,6 +181,7 @@ LeetCode DSA Challenges
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0844-backspace-string-compare) |
+| [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
