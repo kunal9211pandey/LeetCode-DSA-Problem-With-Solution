@@ -58,6 +58,7 @@ LeetCode DSA Challenges
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -129,6 +130,7 @@ LeetCode DSA Challenges
 | [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -361,4 +363,5 @@ LeetCode DSA Challenges
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
