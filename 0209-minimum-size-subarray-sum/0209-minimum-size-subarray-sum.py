@@ -1,19 +1,19 @@
+from typing import List
+
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        low = 0
-        high = 0
-        result = float('inf')
-        sum_val = 0
+        n = len(nums)
+        left = 0
+        window_sum = 0
+        min_len = float('inf')
 
-        while high < len(nums):
-            sum_val += nums[high]
+        for right in range(n):
+            window_sum += nums[right]
 
-            while sum_val >= target:
-                length = high - low + 1
-                result = min(result, length)
-                sum_val -= nums[low]
-                low += 1
+            # Shrink the window while the sum is at least the target
+            while window_sum >= target:
+                min_len = min(min_len, right - left + 1)
+                window_sum -= nums[left]
+                left += 1
 
-            high += 1
-
-        return 0 if result == float('inf') else result
+        return 0 if min_len == float('inf') else min_len
