@@ -68,6 +68,7 @@ LeetCode DSA Challenges
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3227-find-missing-and-repeated-values](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3477-fruits-into-baskets-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@ LeetCode DSA Challenges
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,6 +252,7 @@ LeetCode DSA Challenges
 | [2265-partition-array-according-to-given-pivot](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -383,4 +386,12 @@ LeetCode DSA Challenges
 | [0904-fruit-into-baskets](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
