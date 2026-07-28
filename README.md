@@ -42,6 +42,7 @@ LeetCode DSA Challenges
 | [0540-single-element-in-a-sorted-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -134,6 +135,7 @@ LeetCode DSA Challenges
 | [0451-sort-characters-by-frequency](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -378,6 +380,7 @@ LeetCode DSA Challenges
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kunal9211pandey/LeetCode-DSA-Problem-With-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
